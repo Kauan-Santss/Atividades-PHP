@@ -18,7 +18,7 @@
     </div>
 
     <div class="input-group">
-      <label for="destino">Salario Atual</label>
+      <label for="salarioAtual">Salario Atual</label>
       <input type="number" name="salarioAtual" id="salarioAtual" required/>
     </div>
 
